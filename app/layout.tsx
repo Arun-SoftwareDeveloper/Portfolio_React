@@ -9,6 +9,7 @@ export const metadata = {
   description:
     "Portfolio website of Arun R, Assoicate Software Engineer and Full Stack Developer",
   generator: "v0.dev",
+  icons: "./Images/icon_logo.png",
 };
 
 export default function RootLayout({
