@@ -421,7 +421,7 @@ export default function Portfolio() {
                 className="bg-background/20 backdrop-blur-sm p-3 rounded-full border border-border hover:border-primary hover:text-primary transition-colors"
                 whileHover={{ scale: 1.2, rotate: 5 }}
                 whileTap={{ scale: 0.9 }}
-                target="blank"
+                target="_blank"
               >
                 <Mail size={24} />
               </motion.a>
@@ -430,7 +430,7 @@ export default function Portfolio() {
                 className="bg-background/20 backdrop-blur-sm p-3 rounded-full border border-border hover:border-primary hover:text-primary transition-colors"
                 whileHover={{ scale: 1.2, rotate: 5 }}
                 whileTap={{ scale: 0.9 }}
-                target="blank"
+                target="_blank"
               >
                 <Linkedin size={24} />
               </motion.a>
@@ -439,7 +439,7 @@ export default function Portfolio() {
                 className="bg-background/20 backdrop-blur-sm p-3 rounded-full border border-border hover:border-primary hover:text-primary transition-colors"
                 whileHover={{ scale: 1.2, rotate: 5 }}
                 whileTap={{ scale: 0.9 }}
-                target="blank"
+                target="_blank"
               >
                 <Github size={24} />
               </motion.a>
@@ -448,7 +448,7 @@ export default function Portfolio() {
                 className="bg-background/20 backdrop-blur-sm p-3 rounded-full border border-border hover:border-primary hover:text-primary transition-colors"
                 whileHover={{ scale: 1.2, rotate: 5 }}
                 whileTap={{ scale: 0.9 }}
-                target="blank"
+                target="_blank"
               >
                 <FileText size={24} />
               </motion.a>
