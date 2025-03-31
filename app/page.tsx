@@ -394,7 +394,7 @@ export default function Portfolio() {
                 highlightClassName="text-primary"
                 highlightIndices={[10, 11, 12, 13]}
               />
-              <ProfessionalGreeting className="mb-6" />
+              <ProfessionalGreeting className="mb-4 mt-6" />
             </div>
 
             <motion.div
@@ -444,7 +444,7 @@ export default function Portfolio() {
                 <Github size={24} />
               </motion.a>
               <motion.a
-                href="https://drive.google.com/file/d/1N2C4V3hEBKVwYzZI87ejH8f3AGsj0eiT/view"
+                href="https://drive.google.com/file/d/1wGZT2O1pXXHxoXwCcwcbVt7bdKFnA3Ry/view"
                 className="bg-background/20 backdrop-blur-sm p-3 rounded-full border border-border hover:border-primary hover:text-primary transition-colors"
                 whileHover={{ scale: 1.2, rotate: 5 }}
                 whileTap={{ scale: 0.9 }}
