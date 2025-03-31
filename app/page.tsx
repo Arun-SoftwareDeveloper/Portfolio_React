@@ -777,6 +777,7 @@ export default function Portfolio() {
                         <a
                           href={project.github}
                           className="flex items-center justify-center gap-2"
+                          target="_blank"
                         >
                           <Github size={16} />
                           <span>Code</span>
@@ -791,6 +792,7 @@ export default function Portfolio() {
                         <a
                           href={project.live}
                           className="flex items-center justify-center gap-2"
+                          target="_blank"
                         >
                           <ExternalLink size={16} />
                           <span>Live Demo</span>
@@ -891,6 +893,7 @@ export default function Portfolio() {
                   <a
                     href="mailto:arunramasamy46@gmail.com"
                     className="flex items-center gap-2"
+                    target="_blank"
                   >
                     <Mail size={20} />
                     <span>Say Hello</span>
