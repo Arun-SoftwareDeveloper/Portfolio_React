@@ -39,7 +39,7 @@ const botResponses = {
     "As a Assoicate software engineer, Arun has expertise in both frontend and backend technologies, including React, Next.js, Express, and MongoDB. Would you like me to elaborate on any particular area?",
   ],
   experience: [
-    "Arun currently works as a Assoicate Software Engineer at GUVI Geeks Network Private Limited since 2023, focusing on full-stack development and cloud infrastructure. How does this align with what you're looking for?",
+    "Arun currently works as a Assoicate Software Engineer at Resulticks Edge Solutions Private Limited since 2024, focusing on full-stack development and cloud infrastructure. How does this align with what you're looking for?",
     "Arun has experience in building e-commerce platforms, CRUD applications, and interactive web applications using modern technologies. Is there a specific aspect of his experience you're interested in?",
   ],
   education: [
