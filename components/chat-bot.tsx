@@ -30,7 +30,7 @@ interface Message {
 
 const botResponses = {
   greeting: [
-    "Hello! I'm Vincent Poovarangan Arun's virtual assistant. How are you doing today? I'd be happy to tell you about Arun's experience and skills.",
+    "Hello! I'm Vincent Poovaragan Arun's virtual assistant. How are you doing today? I'd be happy to tell you about Arun's experience and skills.",
     "Hi there! Welcome to Arun's portfolio. How are you? I'm here to help you learn more about Arun's work and expertise.",
     "Greetings! How's your day going? I'm here to assist you with any information about Arun's professional background and projects.",
   ],
@@ -120,7 +120,7 @@ export default function ChatBot({ onClose }: ChatBotProps) {
     {
       id: "1",
       content:
-        "Hello! I'm Vincent Poovarangan Arun's virtual assistant. How can I help you today?",
+        "Hello! I'm Vincent Poovaragan Arun's virtual assistant. How can I help you today?",
       sender: "bot",
       timestamp: new Date(),
     },
@@ -211,7 +211,7 @@ export default function ChatBot({ onClose }: ChatBotProps) {
                   <Bot className="h-4 w-4" />
                 </AvatarFallback>
               </Avatar>
-              <CardTitle className="text-lg">Vincent Poovarangan</CardTitle>
+              <CardTitle className="text-lg">Vincent Poovaragan</CardTitle>
             </div>
             <Button
               variant="ghost"
